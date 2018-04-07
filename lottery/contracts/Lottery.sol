@@ -19,7 +19,7 @@ contract Lottery {
         winningPlayer.transfer(this.balance);
         
         // reset lottery game
-        players = new address[](3);
+        players = new address[](0);
     }
 
     modifier restricted () {
