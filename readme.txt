@@ -1,0 +1,1 @@
+Before running any project make sure to run 'npm install' to install npm dependencies first
